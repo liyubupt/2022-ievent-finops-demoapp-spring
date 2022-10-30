@@ -71,9 +71,9 @@
         <version>2.5.0</version>
         <configuration>
           <schemaVersion>v2</schemaVersion>
-          <subscriptionId>xxx</subscriptionId>
-          <resourceGroup>spring-boot-complete-1666960143882-rg</resourceGroup>
-          <appName>spring-boot-complete-1666960143882</appName>
+          <subscriptionId>da12d467-03ae-4675-aa29-d3b26fdbd2cc</subscriptionId>
+          <resourceGroup>yli-ievent-finops01</resourceGroup>
+          <appName>app-yli-ievent-finops01</appName>
           <pricingTier>P1v2</pricingTier>
           <region>centralus</region>
           <runtime>
